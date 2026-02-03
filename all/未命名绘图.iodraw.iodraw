@@ -28,9 +28,14 @@
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-5" value="&lt;i&gt;t = t + 1&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="270" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UlE-fTiO-ckFiuHkBt1f-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlE-fTiO-ckFiuHkBt1f-6">
+        <mxCell id="UlE-fTiO-ckFiuHkBt1f-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlE-fTiO-ckFiuHkBt1f-6" target="UlE-fTiO-ckFiuHkBt1f-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="93.75" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="154" y="380" />
+              <mxPoint x="154" y="410" />
+              <mxPoint x="140" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-6" value="&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;MKV&#39;&amp;lt;MKV&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
