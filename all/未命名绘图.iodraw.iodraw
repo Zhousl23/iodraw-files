@@ -39,6 +39,11 @@
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlE-fTiO-ckFiuHkBt1f-6" target="UlE-fTiO-ckFiuHkBt1f-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="366.25" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="380" />
+              <mxPoint x="310" y="410" />
+              <mxPoint x="300" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-6" value="&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;MKV&#39;&amp;lt;MKV&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
