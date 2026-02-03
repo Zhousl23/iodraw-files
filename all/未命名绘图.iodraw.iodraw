@@ -126,7 +126,7 @@
           <mxGeometry x="500" y="265" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-42" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(N,MKV(N))&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;N&lt;sub&gt;min&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;≤ N ≤&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;N&lt;sub&gt;max&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="260" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
