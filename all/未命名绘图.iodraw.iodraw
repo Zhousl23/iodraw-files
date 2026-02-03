@@ -22,6 +22,9 @@
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-9" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlE-fTiO-ckFiuHkBt1f-4" target="UlE-fTiO-ckFiuHkBt1f-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UlE-fTiO-ckFiuHkBt1f-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlE-fTiO-ckFiuHkBt1f-4" target="UlE-fTiO-ckFiuHkBt1f-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-4" value="&lt;i&gt;t ≤ T&lt;sub&gt;max&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="177.5" y="160" width="95" height="40" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="180" />
+              <mxPoint x="30" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,6 +81,9 @@
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-17" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="490" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlE-fTiO-ckFiuHkBt1f-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
