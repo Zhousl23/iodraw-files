@@ -93,7 +93,7 @@
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-17" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="490" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UlE-fTiO-ckFiuHkBt1f-22" value="&lt;i&gt;S&lt;/i&gt;&lt;i&gt;*&lt;/i&gt;&lt;i&gt;(N)&amp;nbsp; =&amp;nbsp;&lt;/i&gt;&lt;i&gt;S&lt;sub&gt;t+1&lt;/sub&gt;(N)&amp;nbsp;&lt;/i&gt;&lt;div&gt;&lt;i&gt;MKV* (N)=&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;MKV&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;t+1&lt;/sub&gt;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UlE-fTiO-ckFiuHkBt1f-22" value="&lt;i&gt;S&lt;/i&gt;&lt;i&gt;(N)&amp;nbsp; =&amp;nbsp;&lt;/i&gt;&lt;i&gt;S&lt;sub&gt;t+1&lt;/sub&gt;(N)&amp;nbsp;&lt;/i&gt;&lt;div&gt;&lt;i&gt;MKV (N)=&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;MKV&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;t+1&lt;/sub&gt;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-24" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;no&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
