@@ -96,7 +96,7 @@
             <mxPoint x="-170" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UlE-fTiO-ckFiuHkBt1f-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;N = N&lt;sub&gt;min&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UlE-fTiO-ckFiuHkBt1f-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;N = 0&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-230" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;N = N+1&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
