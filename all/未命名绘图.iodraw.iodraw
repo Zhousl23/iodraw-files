@@ -14,7 +14,7 @@
           <mxGeometry x="165" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-4" value="&lt;i&gt;t≤T&lt;sub&gt;max&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="180" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
