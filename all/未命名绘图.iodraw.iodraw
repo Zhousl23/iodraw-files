@@ -141,13 +141,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-50" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;ΔMKV/ΔN ≤&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;ε&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-235" y="390" width="110" height="40" as="geometry" />
+          <mxGeometry x="-235" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-430" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UlE-fTiO-ckFiuHkBt1f-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlE-fTiO-ckFiuHkBt1f-54" target="UlE-fTiO-ckFiuHkBt1f-54">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
