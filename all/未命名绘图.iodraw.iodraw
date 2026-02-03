@@ -91,14 +91,6 @@
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-24" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;no&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="272.5" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UlE-fTiO-ckFiuHkBt1f-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlE-fTiO-ckFiuHkBt1f-28" target="UlE-fTiO-ckFiuHkBt1f-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="500" y="180" />
-              <mxPoint x="500" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;N = N&lt;sub&gt;min&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="160" width="120" height="40" as="geometry" />
         </mxCell>
