@@ -60,7 +60,7 @@
           <mxGeometry x="100" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-17" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="490" width="180" height="60" as="geometry" />
+          <mxGeometry x="140" y="490" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
