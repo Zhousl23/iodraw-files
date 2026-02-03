@@ -102,6 +102,9 @@
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;N = N+1&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="90" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UlE-fTiO-ckFiuHkBt1f-35" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
