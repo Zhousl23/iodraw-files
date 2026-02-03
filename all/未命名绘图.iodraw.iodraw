@@ -59,6 +59,9 @@
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-16" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;no&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="370" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UlE-fTiO-ckFiuHkBt1f-17" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
