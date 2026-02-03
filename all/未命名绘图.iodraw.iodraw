@@ -13,10 +13,10 @@
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-3" value="MKV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UlE-fTiO-ckFiuHkBt1f-4" value="&lt;i&gt;t≤T&lt;sub&gt;max&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UlE-fTiO-ckFiuHkBt1f-4" value="&lt;i&gt;t ≤ T&lt;sub&gt;max&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="177.5" y="160" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UlE-fTiO-ckFiuHkBt1f-5" value="&lt;i&gt;t = t+1&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UlE-fTiO-ckFiuHkBt1f-5" value="&lt;i&gt;t = t + 1&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="310" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
