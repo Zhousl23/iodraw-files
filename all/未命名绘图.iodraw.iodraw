@@ -26,7 +26,7 @@
           <mxGeometry x="177.5" y="160" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-5" value="&lt;i&gt;t = t + 1&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="-40" y="270" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-6" value="&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;MKV&#39;&amp;lt;MKV&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="173.75" y="360" width="102.5" height="40" as="geometry" />
