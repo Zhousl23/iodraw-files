@@ -144,7 +144,7 @@
           <mxGeometry x="-430" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-57" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;N =&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;N&lt;sub&gt;min&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-390" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="-230" y="370" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
