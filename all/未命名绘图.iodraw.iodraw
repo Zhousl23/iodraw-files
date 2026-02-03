@@ -17,7 +17,7 @@
           <mxGeometry x="150" y="250" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-3" value="&lt;i&gt;S&lt;sub&gt;t+1&lt;/sub&gt;(N) = S&#39;(N)&lt;/i&gt;&lt;div&gt;&lt;i&gt;MKV&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;t+1&amp;nbsp;&lt;/sub&gt;=&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;MKV&#39;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UlE-fTiO-ckFiuHkBt1f-9" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlE-fTiO-ckFiuHkBt1f-4" target="UlE-fTiO-ckFiuHkBt1f-2">
           <mxGeometry relative="1" as="geometry" />
